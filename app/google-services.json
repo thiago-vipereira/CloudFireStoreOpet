@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "225942750659",
+    "firebase_url": "https://atividade1-6b673.firebaseio.com",
+    "project_id": "atividade1-6b673",
+    "storage_bucket": "atividade1-6b673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225942750659:android:06e13371467729e8",
+        "android_client_info": {
+          "package_name": "com.example.atividade1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225942750659-e7kr1jok9ed8bofbbtfl323dn0o2p6bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atividade1",
+            "certificate_hash": "898c49fc8f595a50320439e280602236f5e7e41b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqHGaXsGQZm6ueOJHXU-QKCrBvsYHxdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225942750659-hjj71hhanepefvunsns5ivfrp2gt1lvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225942750659-ih302oj1m5repmru7hjg4rtngjca2phj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.opet.cloudfirestoreopet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225942750659:android:287968312daaa4f8",
+        "android_client_info": {
+          "package_name": "com.example.opet.cloudfirestoreopet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqHGaXsGQZm6ueOJHXU-QKCrBvsYHxdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225942750659-hjj71hhanepefvunsns5ivfrp2gt1lvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225942750659-ih302oj1m5repmru7hjg4rtngjca2phj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.opet.cloudfirestoreopet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
